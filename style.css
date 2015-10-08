@@ -1,0 +1,110 @@
+@import url(https://fonts.googleapis.com/css?family=Fresca);
+@import url(https://fonts.googleapis.com/css?family=Candal);
+@import url(https://fonts.googleapis.com/css?family=Rhodium+Libre);
+@import url(https://fonts.googleapis.com/css?family=Rubik:400);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
+body{
+	/*background-color: #ECECED;*/
+	/*background-image: url('http://previewcf.turbosquid.com/Preview/2014/08/01__22_20_40/274a_tile_Paper-Yellow-T2.jpg7a36bc3e-018e-40e0-8891-66e977d908daLarge.jpg');
+
+	
+	background-image: url('main-back.jpg');*/
+	 background: linear-gradient( #586665, #665858, #A2988A);
+	font-family: 'PT Sans', sans-serif;
+	font-size: 16px;
+}
+.icon{
+	color: #DDD;
+}
+
+
+header h3{
+	color: #DDD;
+/*	font-family: 'Rubik', sans-serif;*/
+}
+li{
+	line-height: 20px;
+}
+.area-title{
+	
+	color: #DDD;
+	padding-bottom: 5px;
+	font-size: 24px;
+    text-shadow: 1px 1px 2px #000;
+    /*font-family: 'Rubik', sans-serif;*/
+}
+.duties-list-item{
+	background-color: #FAFAFA;
+	background-image: url('main-back.jpg');
+	border-radius: 5px;
+	padding: 10px 5px 5px 0px;
+	box-shadow: 2px 2px 4px #555;
+	margin-bottom: 20px;
+}
+
+a {
+	color: #000;
+}
+.skills-list {
+    background-color: #FAFAFA;
+    background-image: url('main-back.jpg');
+    border-radius: 5px;
+    padding: 20px 5px 15px 0px;
+    box-shadow: 2px 2px 4px #555;
+    margin-bottom: 20px;
+    height: 150px;
+    font-size: 18px;
+}
+
+footer {
+    background-color: #FAFAFA;
+    background-image: url('main-back.jpg');
+    border-radius: 5px;
+    padding: 20px 5px 15px 0px;
+    box-shadow: 2px 2px 4px #555;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+footer h5 {
+    margin-left: 25px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.item-header{
+	margin-left: 25px;
+	border-bottom: 3px double #510e0e;
+	margin-right: 50px;
+}
+.title{
+	font-size: 18px;
+
+}
+.education-heading{
+	font-size: 18px;
+	margin-left: 25px;
+}
+.company{
+	font-size: 20px;
+	font-weight: bold;
+}
+#top-heading{
+	color: #ddd;
+	text-shadow: 1px 1px 2px #000;
+	text-align: center;
+}
+#top-heading a{
+	color: #ddd;
+}
+
+#column-1{
+	width: 200px;
+	float: left;
+}
+#column-2{
+	width: 200px;
+	float: left;
+}
+#column-3{
+	width: 400px;
+	float: left;
+}
