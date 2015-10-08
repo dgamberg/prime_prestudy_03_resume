@@ -97,14 +97,17 @@ footer h5 {
 }
 
 #column-1{
-	width: 200px;
+	width: 30%;
 	float: left;
 }
 #column-2{
-	width: 200px;
+	width: 30%;
 	float: left;
 }
 #column-3{
-	width: 400px;
+	width: 32%;
 	float: left;
+}
+#buttons {
+	text-align:center;
 }
